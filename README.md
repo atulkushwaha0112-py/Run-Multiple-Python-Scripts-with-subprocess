@@ -9,7 +9,7 @@
 
 
 <h2> 1. Buffered Mode (Default, No Real-Time Output)</h2>
-<h3>Version : 1 </h3>
+<h3>version : 1 </h3>
     <ul>
       <li><code>subprocess.Popen</code> runs the scripts one by one</li>
       <li>Output is <strong>buffered</strong> — displayed only after script completes</li>
